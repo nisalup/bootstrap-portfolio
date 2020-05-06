@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Credits
 ##### Base Theme
-From [r@tbakerx](https://github.com/tbakerx) [react-resume-template](https://github.com/tbakerx/react-resume-template)
+From [@tbakerx](https://github.com/tbakerx) [react-resume-template](https://github.com/tbakerx/react-resume-template)
